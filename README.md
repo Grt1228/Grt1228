@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java.
-- 📫 联系邮箱: aliyun2333@126.com
+- 📫 联系邮箱：aliyun2333@126.com
 - 🔗 个人网站：https://www.unfbx.com/
 <!--
 **Grt1228/Grt1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
