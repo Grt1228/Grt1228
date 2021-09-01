@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Java.
-- 💬 Ask me about：aliyun2333@126.com
-- 📫 How to reach me: aliyun2333@126.com
-- 🔗 My website：https://www.unfbx.com/
+- 📫 联系邮箱: aliyun2333@126.com
+- 🔗 个人网站：https://www.unfbx.com/
 <!--
 **Grt1228/Grt1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 💬 联系邮箱：aliyun2333@126.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
