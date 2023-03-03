@@ -5,7 +5,8 @@
 - 🔗 个人网站：https://www.unfbx.com/
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Grt1228&show_icons=true&theme=radical)](https://github.com/Grt1228)
-
+&emsp;&emsp;<i class="fab fa-weixin"></i>  微信公众号：**程序员的黑洞**
+&emsp;<img src="https://g-photo.oss-cn-shanghai.aliyuncs.com/hd15.jpg" style="zoom: 50%;" />
 <!--
 **Grt1228/Grt1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
