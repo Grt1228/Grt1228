@@ -8,7 +8,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Grt1228&show_icons=true&theme=radical)](https://github.com/Grt1228)
 
 <img src="https://g-photo.oss-cn-shanghai.aliyuncs.com/hd15.jpg" style="zoom: 25%;" />
-<img src="https://github.com/Grt1228/Grt1228/blob/master/m/hd15.png" width="200" height="200" alt="抖音小程序"/><br/>
+<img src="https://github.com/Grt1228/Grt1228/blob/main/hd15.jpg" width="150" height="150" alt="二维码"/><br/>
 
 <!--
 **Grt1228/Grt1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
