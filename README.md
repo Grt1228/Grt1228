@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 📫 联系邮箱：aliyun2333@126.com
 - 🔗 个人网站：https://www.unfbx.com/
+- 🌠 掘金主页：[**程序员的黑洞**](https://juejin.cn/user/2374551168099287)
 - 💬 微信公众号：**程序员的黑洞**
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Grt1228&show_icons=true&theme=radical)](https://github.com/Grt1228)
